@@ -2,7 +2,6 @@ package ru.netology.web.test;
 
 import org.junit.jupiter.api.Test;
 import ru.netology.web.data.DataHelper;
-import ru.netology.web.page.LoginPageV1;
 import ru.netology.web.page.LoginPageV2;
 import ru.netology.web.page.LoginPageV3;
 
